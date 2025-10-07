@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "FiapCloudGamesPaymentsApiUrl": "https://localhost:7190",
+    "FiapCloudGamesGamesApiUrl": "https://localhost:7032",
+    "GatewayInternalAuth": "S/7!G>Tj>a0ak=XcwzKq"
+  },
+  "ConnectionStrings": {
+    "FiapCloudGamesUsersDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Users;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "FiapCloudGamesGamesDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Games;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "FiapCloudGamesPaymentsDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Payments;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
