@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapCloudGames.AzureFunctions.Application", "FiapCloudGames.AzureFunctions.Application\FiapCloudGames.AzureFunctions.Application.csproj", "{3D455A98-4451-442C-9C52-313682B8C058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapCloudGames.AzureFunctions.Domain", "FiapCloudGames.AzureFunctions.Domain\FiapCloudGames.AzureFunctions.Domain.csproj", "{1E645494-3B99-4AC2-8E58-35B367501015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapCloudGames.AzureFunctions.Infrastructure", "FiapCloudGames.AzureFunctions.Infrastructure\FiapCloudGames.AzureFunctions.Infrastructure.csproj", "{1F74C38D-5839-4FCE-BBF5-27286B57C391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapCloudGames.AzureFunctions.Functions", "FiapCloudGames.AzureFunctions.Functions\FiapCloudGames.AzureFunctions.Functions.csproj", "{321F7A84-0DF1-4520-B15E-78C2AC292A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D455A98-4451-442C-9C52-313682B8C058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D455A98-4451-442C-9C52-313682B8C058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D455A98-4451-442C-9C52-313682B8C058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D455A98-4451-442C-9C52-313682B8C058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E645494-3B99-4AC2-8E58-35B367501015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E645494-3B99-4AC2-8E58-35B367501015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E645494-3B99-4AC2-8E58-35B367501015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E645494-3B99-4AC2-8E58-35B367501015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F74C38D-5839-4FCE-BBF5-27286B57C391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F74C38D-5839-4FCE-BBF5-27286B57C391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F74C38D-5839-4FCE-BBF5-27286B57C391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F74C38D-5839-4FCE-BBF5-27286B57C391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321F7A84-0DF1-4520-B15E-78C2AC292A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321F7A84-0DF1-4520-B15E-78C2AC292A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321F7A84-0DF1-4520-B15E-78C2AC292A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321F7A84-0DF1-4520-B15E-78C2AC292A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

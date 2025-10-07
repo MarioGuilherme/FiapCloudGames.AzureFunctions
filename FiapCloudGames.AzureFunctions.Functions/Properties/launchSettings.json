@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "FiapCloudGames.AzureFunctions.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7147"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 33870,
+      "useSSL": false
+    }
+  }
+}
