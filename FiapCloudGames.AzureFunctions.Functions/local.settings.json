@@ -3,13 +3,13 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "FiapCloudGamesPaymentsApiUrl": "https://localhost:7190",
-    "FiapCloudGamesGamesApiUrl": "https://localhost:7032",
+    "FiapCloudGamesPaymentsApiUrl": "https://fiapcloudgamespayments2025ucfbwb2g3can-frf4axg0enhqbzd9.canadacentral-01.azurewebsites.net",
+    "FiapCloudGamesGamesApiUrl": "https://fiapcloudgamesgames2025ucfbwb2g3can-hsdmfwagdhavgzd5.canadacentral-01.azurewebsites.net",
     "GatewayInternalAuth": "S/7!G>Tj>a0ak=XcwzKq"
   },
   "ConnectionStrings": {
     "FiapCloudGamesUsersDbContext": "Server=fiapcloudgamesusers2025ucfbwb2g3can-server;Database=fiapcloudgamesusers2025ucfbwb2g3can-database;User=fiapcloudgamesusers2025ucfbwb2g3can-server-admin;Password=mxGCKTz3eP$YHBOo",
-    "FiapCloudGamesGamesDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Games;Trusted_Connection=True;MultipleActiveResultSets=true",
-    "FiapCloudGamesPaymentsDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Payments;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "FiapCloudGamesGamesDbContext": "Server=fiapcloudgamesgames2025ucfbwb2g3can-server;Database=fiapcloudgamesgames2025ucfbwb2g3can-database;User=fiapcloudgamesgames2025ucfbwb2g3can-server-admin;Password=lw92PHyjHkp$jbva",
+    "FiapCloudGamesPaymentsDbContext": "Server=fiapcloudgamespayments2025ucfbwb2g3can-server;Database=fiapcloudgamespayments2025ucfbwb2g3can-database;User=fiapcloudgamespayments2025ucfbwb2g3can-server-admin;Password=MqDvzut8sl$HeRyB"
   }
 }
