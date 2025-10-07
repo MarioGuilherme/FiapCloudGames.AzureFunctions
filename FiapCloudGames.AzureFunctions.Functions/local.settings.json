@@ -8,7 +8,7 @@
     "GatewayInternalAuth": "S/7!G>Tj>a0ak=XcwzKq"
   },
   "ConnectionStrings": {
-    "FiapCloudGamesUsersDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Users;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "FiapCloudGamesUsersDbContext": "Server=fiapcloudgamesusers2025ucfbwb2g3can-server;Database=fiapcloudgamesusers2025ucfbwb2g3can-database;User=fiapcloudgamesusers2025ucfbwb2g3can-server-admin;Password=mxGCKTz3eP$YHBOo",
     "FiapCloudGamesGamesDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Games;Trusted_Connection=True;MultipleActiveResultSets=true",
     "FiapCloudGamesPaymentsDbContext": "Server=(localdb)\\mssqllocaldb;Database=FiapCloudGames.Payments;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
