@@ -14,12 +14,13 @@ git clone https://github.com/MarioGuilherme/FiapCloudGames.AzureFunction && cd .
   ```
   cd .\FiapCloudGames.AzureFunctions.Functions\
   ```
-  2 - Insira o comando de execução do projeto:
+  2 - Abre o projeto de solução:
   ```
-  dotnet run
+  FiapCloudGames.AzureFunctions.sln
   ```
+  3 - Ao abrir o projeto no Visual Studio, defina este projeto como inicialização "FiapCloudGames.AzureFunctions.Functions";
 
-  3 - Acesse https://localhost:7147/swagger/index.html
+  4 - Pressione F5 para iniciar o projeto;
 
 ## 🛠️ Tecnologias e Afins
 - Azure Function Isolated Model;
